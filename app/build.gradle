@@ -41,13 +41,13 @@ dependencies {
 
 //    https://github.com/jeasonlzy/NineGridView
     compile 'com.lzy.widget:ninegridview:0.2.0'
-//    https://github.com/jeasonlzy/okhttp-OkGo
-//必须使用
-    compile 'com.lzy.net:okgo:3.0.4'
-//以下三个选择添加，okrx和okrx2不能同时使用
-    compile 'com.lzy.net:okrx:1.0.2'
-    compile 'com.lzy.net:okrx2:2.0.2'
-    compile 'com.lzy.net:okserver:2.0.5'
+////    https://github.com/jeasonlzy/okhttp-OkGo
+////必须使用
+//    compile 'com.lzy.net:okgo:3.0.4'
+////以下三个选择添加，okrx和okrx2不能同时使用
+//    compile 'com.lzy.net:okrx:1.0.2'
+//    compile 'com.lzy.net:okrx2:2.0.2'
+//    compile 'com.lzy.net:okserver:2.0.5'
 
 
 
